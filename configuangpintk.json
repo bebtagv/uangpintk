@@ -1,0 +1,180 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "ironsource",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#342215684913660_342216364913592",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#342215684913660_342216414913587",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#342215684913660_342216511580244",
+      "startapp_app_id": "0",
+      "unity_game_id": "157b73ce1",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "1a6912d95",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online Uang Pintek",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Tentang Aplikasi Uang Pintek Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F1%20Tentang%20Aplikasi%20Uang%20Pintek%20Pinjaman%20Online.html?alt=media&token=fc3be619-ccf5-4530-ac49-d3cb5b0f4580",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Cara Daftar Aplikasi Uang Pintek Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F2%20Cara%20Daftar%20Aplikasi%20Uang%20Pintek%20Pinjaman%20Onlin.html?alt=media&token=b7cbd6d0-c3cf-4806-9672-b9db9cc4630e",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Kelebihan Aplikasi Uang Pintek Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F3%20Kelebihan%20Aplikasi%20Uang%20Pintek%20Pinjaman%20Online.html?alt=media&token=378c7d38-daee-49a0-8c5a-fc36bec6f9dd",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Cara Menghitung Bunga Pinjaman dan Cicilan di Aplikasi Uang Pintek Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F4%20Cara%20Menghitung%20Bunga%20Pinjaman%20dan%20Cicilan%20di%20Aplikasi%20Uang%20Pintek%20Pinjaman%20Online.html?alt=media&token=c4188d4e-008a-40fe-bab8-c8d994039d14",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Cara Menghubungi Admin Aplikasi Uang Pintek",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F5%20Cara%20Menghubungi%20Admin%20Aplikasi%20Uang%20Pintek.html?alt=media&token=83508149-1ed7-4a1a-9e41-c5a004a49c5f",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Daftar Lender Pinjaman Online Dengan Tenor Panjang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F6%20Daftar%20Lender%20Pinjaman%20Online%20Dengan%20Tenor%20Panjang.html?alt=media&token=143be8a0-771f-4958-bd18-925a1ca29349",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Daftar Lender Pinjaman Online dengan Bunga Rendah",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F7%20Daftar%20Lender%20Pinjaman%20Online%20dengan%20Bunga%20Rendah.html?alt=media&token=1e32dd86-7ccd-49b5-ae36-b51beffb8be2",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Tips Bayar Pinjaman Online Tepat Waktu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F8%20Tips%20Bayar%20Pinjaman%20Online%20Tepat%20Waktu.html?alt=media&token=9cfc8aae-7b58-4b1d-b425-3b9e610a12e2",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Mengenal Pinjaman Tanpa Bunga",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F9%20Mengenal%20Pinjaman%20Tanpa%20Bunga.html?alt=media&token=d09d29d0-6dc7-4531-8008-5547d70da103",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Resiko Gagal Bayar Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F10%20Resiko%20Gagal%20Bayar%20Pinjaman%20Online.html?alt=media&token=6901f2da-f2b9-456b-9cdb-0742aca8cdca",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Daftar Bank yang beri pinjaman tanpa jaminan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F11%20Daftar%20Bank%20yang%20beri%20pinjaman%20tanpa%20jaminan.html?alt=media&token=740f11a4-2ed6-4076-9501-66d72db14aca",
+      "video": ""
+    },{
+      "id": 12,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Daftar Aplikasi Pinjaman Online Dengan Tenor 1 Bulan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F12%20Daftar%20Aplikasi%20Pinjaman%20Online%20Dengan%20Tenor%201%20Bulan.html?alt=media&token=93765bd2-0eff-4d95-ae41-05a87b194ca6",
+      "video": ""
+    },{
+      "id": 13,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Tips Mengenali Pinjaman Online Ilegal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F13%20Tips%20Mengenali%20Pinjaman%20Online%20Ilegal.html?alt=media&token=8f3f63c0-74e0-4f53-814b-fd284540d316",
+      "video": ""
+    },{
+      "id": 14,
+      "category": "Tips Pinjaman Online Uang Pintek",
+      "title": "Daftar Aplikasi Pinjaman Online Dengan Tenor Harian",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2Fbannerpntk.png?alt=media&token=454bff31-efb0-478f-af7e-0342f10a08b0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/uangpintk%2F15%20Daftar%20Aplikasi%20Pinjaman%20Online%20Dengan%20Tenor%20Harian.html?alt=media&token=be08fac0-34a1-4dba-a65e-e15075ea9d4b",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
